@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a test to check out AWS Amplify. Pretty impressive!
+          We are on a test branch now
         </p>
       </header>
     </div>
